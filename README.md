@@ -21,7 +21,7 @@ Add your name and one thing you're loving about the Latinas in Tech Summit! <br>
 It could be your favorite session, a speaker who inspired you, someone you met, or just how you're feeling being in this comunidad. :sparkling_heart:<br>
 Example:<br>
 Monica Miyasato: Loved seeing so many powerful Latinas taking up space in tech! <br>
-Brianna Hartman:This has been the most insightful event of my career. I can't wait to share with my team! 
+Brianna Hartman:This has been the most insightful event of my career. I can't wait to share what I have learned with my team! 
 
 ---
 ## :speech_balloon: Why I’m Excited About Open Source
